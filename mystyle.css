@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+}
+
+html {
+	background-color: blue;
+}
+
+body h1, body p {
+	text-align: center;
+	font-family: 'Arial';
+}
